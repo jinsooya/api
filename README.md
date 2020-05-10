@@ -2,4 +2,6 @@
 
 ## [Google Maps Platform](google-maps-platform.md)
 
-### 강의 교재: <https://github.com/snu-python/pythonbook>
+### More coming...
+
+강의 교재: <https://github.com/snu-python/pythonbook>
